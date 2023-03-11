@@ -2,16 +2,17 @@
 
 ## Contents
 
-- Shell config(macOS & Linux)
-- PowerShell setup(Windows)
+- Shell config (macOS)
+- PowerShell config (Windows)
 
-## Shell setup (macOS & Linux)
+## Shell config (macOS)
 
 - [Oh My Zsh](https://ohmyz.sh/) - Prompt theme engine
 
-## PowerShell setup (Windows)
+## PowerShell config (Windows)
 
 ![pwsh screenshot](https://i.imgur.com/vRuEfe0.png)
+[用 Oh-My-Posh 美化 Window PowerShell](https://vincenttam-blog.vercel.app/posts/oh-my-posh-window-powershell)
 
 ```Powershell
 code $Profile
@@ -27,3 +28,4 @@ Window Terminal font: Hack Regular Nerd Font Mono
 - [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
 - [PSReadLine](https://docs.microsoft.com/en-us/powershell/module/psreadline/) - Cmdlets for customizing the editing environment, used for autocompletion
 - [z](https://www.powershellgallery.com/packages/z) - Directory jumper
+- [gsudo](https://github.com/gerardog/gsudo) - a sudo for Windows
