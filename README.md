@@ -6,8 +6,15 @@
 - PowerShell config (Windows)
 
 ## Shell config (macOS)
-
+- [iTerm2](https://iterm2.com/) - A replacement for Terminal and the successor to iTerm
 - [Oh My Zsh](https://ohmyz.sh/) - Prompt theme engine
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh) - A theme of zsh
+- [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder
+- [z](https://www.powershellgallery.com/packages/z) - Directory jumper
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Commands syntax highlight plugin
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) -  It suggests commands as you type based on history and completions
+- [The Fuck](https://github.com/nvbn/thefuck) - Corrects errors in previous console commands
+
 
 ## PowerShell config (Windows)
 
