@@ -1,3 +1,4 @@
+- [iTerm2](https://iterm2.com/) - A replacement for Terminal and the successor to iTerm
 - [Oh My Zsh](https://ohmyz.sh/) - Prompt theme engine
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh) - A theme of zsh
 - [fzf](https://github.com/junegunn/fzf) - General-purpose command-line fuzzy finder
